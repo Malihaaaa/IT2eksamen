@@ -2,7 +2,7 @@
 public class Traade {
 
 
-    //HEYYYYYYYY OPDATERING
+    //HEJ
     //Her har vi vores main hvor alt koden kører i (begge tråde)
     public static void main(String arg[]){
 
